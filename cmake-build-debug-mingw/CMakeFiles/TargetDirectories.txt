@@ -1,0 +1,3 @@
+C:/Users/wxyinasilent/Desktop/F407/ADC+DMA+DSP/cmake-build-debug-mingw/CMakeFiles/ADC+DMA+DSP.elf.dir
+C:/Users/wxyinasilent/Desktop/F407/ADC+DMA+DSP/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/wxyinasilent/Desktop/F407/ADC+DMA+DSP/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
